@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @frohmm25
+# 👋 Hi, I’m @frohmm25
 - 👀 I’m interested in Python and Math.
 - 🌱 I’m currently learning Multivariable Calc from MIT OWC and Python.
 - 💞️ I’m looking to collaborate anywhere I can help. 
